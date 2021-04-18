@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Todo List</string>
+    <string name="add_task">Add Task</string>
+    <string name="history">History</string>
+    <string name="search">Search</string>
+    <string name="new_Task">New Task</string>
+    <string name="task_title">Task Title</string>
+    <string name="enter_task_title">Enter Task Title</string>
+    <string name="what_is_to_be_done">What is to be done?</string>
+    <string name="enter_your_task">Enter your Task</string>
+    <string name="set_reminder_date_and_time">Set reminder date and time</string>
+    <string name="set_date">Set Date</string>
+    <string name="set_time">Set Time</string>
+    <string name="save_task">SAVE TASK</string>
+    <string name="to_do">Todo</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="enter_a_task">Enter a task</string>
+</resources>
